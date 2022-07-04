@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T02:28:54.861Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="Lepwof5qsg5b98X-S0-D" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T02:44:18.647Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="Uew9A7GOHVEFJG_L4r5c" version="20.0.4" type="github">
   <diagram id="aEenoiBvwQlOfjcGmmM3" name="Page-1">
     <mxGraphModel dx="1042" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,17 +69,16 @@
         <mxCell id="10gvtc7ClR5YC0mpuJhk-19" value="strategy1" style="text;whiteSpace=wrap;html=1;fontSize=10;fontColor=#CDA2BE;" vertex="1" parent="1">
           <mxGeometry x="448" y="347" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="10gvtc7ClR5YC0mpuJhk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#CDA2BE;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="10gvtc7ClR5YC0mpuJhk-20">
+        <mxCell id="10gvtc7ClR5YC0mpuJhk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#CDA2BE;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="10gvtc7ClR5YC0mpuJhk-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="370" as="targetPoint" />
+            <mxPoint x="430" y="370" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="500" y="370" />
-              <mxPoint x="430" y="370" />
+              <mxPoint x="430" y="372" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="10gvtc7ClR5YC0mpuJhk-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="500" y="350" width="80" height="50" as="geometry" />
+        <mxCell id="10gvtc7ClR5YC0mpuJhk-20" value="&lt;font color=&quot;#cda2be&quot;&gt;策略1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="510" y="347" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="10gvtc7ClR5YC0mpuJhk-22" value="&lt;font color=&quot;#cda2be&quot;&gt;&lt;span style=&quot;caret-color: rgb(205, 162, 190);&quot;&gt;模型预测&lt;br&gt;节拍 重拍&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="310" y="380" width="100" height="50" as="geometry" />
