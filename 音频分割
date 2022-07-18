@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T03:12:57.585Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="ftFAg6wvLREzO0xl1wn8" version="20.1.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-07-18T03:13:58.558Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="t8Yxm_Y_PZ162Um8XzPf" version="20.1.1" type="github" pages="6">
   <diagram id="aEenoiBvwQlOfjcGmmM3" name="Page-1">
     <mxGraphModel dx="1426" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1131,6 +1131,18 @@
             <mxPoint x="1000" y="540" as="sourcePoint" />
             <mxPoint x="1000" y="440" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Cs-pKbAErBh22oR9IhR1-10" value="（t1,v1）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="705" y="435" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cs-pKbAErBh22oR9IhR1-11" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration: none; float: none; display: inline !important;&quot;&gt;（t2,v2）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="335" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cs-pKbAErBh22oR9IhR1-12" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration: none; float: none; display: inline !important;&quot;&gt;（t3,v3）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="455" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cs-pKbAErBh22oR9IhR1-13" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration: none; float: none; display: inline !important;&quot;&gt;（t4,v4）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="414" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
