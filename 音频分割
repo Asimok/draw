@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T03:35:56.451Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="4KH0bzw7XOkSzgAMZpF6" version="20.2.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-08-19T03:39:55.626Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="bxOvV762Wi9QdVZhXspa" version="20.2.5" type="github" pages="11">
   <diagram id="aEenoiBvwQlOfjcGmmM3" name="Page-1">
     <mxGraphModel dx="1426" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4178,23 +4178,46 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_58-rKkNVQ47yIjjqwis-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontColor=#B5739D;" edge="1" parent="1" source="_58-rKkNVQ47yIjjqwis-1" target="_58-rKkNVQ47yIjjqwis-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_58-rKkNVQ47yIjjqwis-1" value="&lt;font color=&quot;#b5739d&quot; style=&quot;font-size: 16px;&quot;&gt;输入多个视频&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="140" y="130" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_58-rKkNVQ47yIjjqwis-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontColor=#B5739D;" edge="1" parent="1" source="_58-rKkNVQ47yIjjqwis-2" target="_58-rKkNVQ47yIjjqwis-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_58-rKkNVQ47yIjjqwis-2" value="&lt;font color=&quot;#b5739d&quot; style=&quot;font-size: 16px;&quot;&gt;输入一段音频&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="140" y="240" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_58-rKkNVQ47yIjjqwis-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontColor=#B5739D;" edge="1" parent="1" source="_58-rKkNVQ47yIjjqwis-3" target="_58-rKkNVQ47yIjjqwis-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_58-rKkNVQ47yIjjqwis-3" value="&lt;font size=&quot;3&quot; color=&quot;#b5739d&quot;&gt;&lt;span style=&quot;caret-color: rgb(181, 115, 157);&quot;&gt;音乐风格分类算法&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="350" y="240" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_58-rKkNVQ47yIjjqwis-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;fontColor=#B5739D;" edge="1" parent="1" source="_58-rKkNVQ47yIjjqwis-4" target="_58-rKkNVQ47yIjjqwis-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_58-rKkNVQ47yIjjqwis-4" value="&lt;font size=&quot;3&quot; color=&quot;#b5739d&quot;&gt;&lt;span style=&quot;caret-color: rgb(181, 115, 157);&quot;&gt;视频场景识别算法&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="350" y="130" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_58-rKkNVQ47yIjjqwis-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.591;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontColor=#B5739D;" edge="1" parent="1" source="_58-rKkNVQ47yIjjqwis-5" target="_58-rKkNVQ47yIjjqwis-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_58-rKkNVQ47yIjjqwis-5" value="&lt;font size=&quot;3&quot; color=&quot;#b5739d&quot;&gt;&lt;span style=&quot;caret-color: rgb(181, 115, 157);&quot;&gt;场景标签：[sport , travel ,...]&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="570" y="130" width="360" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_58-rKkNVQ47yIjjqwis-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;fontColor=#B5739D;" edge="1" parent="1" source="_58-rKkNVQ47yIjjqwis-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_58-rKkNVQ47yIjjqwis-6" value="&lt;font size=&quot;3&quot; color=&quot;#b5739d&quot;&gt;&lt;span style=&quot;caret-color: rgb(181, 115, 157);&quot;&gt;音乐标签：摇滚&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="570" y="240" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_58-rKkNVQ47yIjjqwis-12" value="&lt;font size=&quot;3&quot; color=&quot;#b5739d&quot;&gt;&lt;span style=&quot;caret-color: rgb(181, 115, 157);&quot;&gt;效果匹配策略&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="710" y="380" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
