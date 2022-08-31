@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T03:47:56.564Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="UUoYvLpu5w4XauHgSVhJ" version="20.2.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-08-31T03:57:22.901Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="s4lTHyKaUALXtKkqnwpi" version="20.2.7" type="github" pages="11">
   <diagram id="aEenoiBvwQlOfjcGmmM3" name="Page-1">
     <mxGraphModel dx="1426" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4219,7 +4219,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PNWv0zX5U9rFAPApWODh" name="第 11 页">
-    <mxGraphModel dx="1426" dy="678" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4300,6 +4300,21 @@
         </mxCell>
         <mxCell id="TLxXplyurWotPnORb-Qy-3" value="&lt;font size=&quot;4&quot; color=&quot;#a680b8&quot;&gt;&lt;span style=&quot;caret-color: rgb(166, 128, 184);&quot;&gt;&lt;b&gt;输入&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="42" y="255" width="61" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TLxXplyurWotPnORb-Qy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;fontColor=#A680B8;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="TLxXplyurWotPnORb-Qy-8" target="TLxXplyurWotPnORb-Qy-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TLxXplyurWotPnORb-Qy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;fontColor=#A680B8;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="TLxXplyurWotPnORb-Qy-8" target="TLxXplyurWotPnORb-Qy-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TLxXplyurWotPnORb-Qy-8" value="&lt;font size=&quot;3&quot; color=&quot;#b5739d&quot;&gt;&lt;span style=&quot;caret-color: rgb(181, 115, 157);&quot;&gt;输入音频&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1010" width="131" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TLxXplyurWotPnORb-Qy-9" value="&lt;font size=&quot;3&quot; color=&quot;#b5739d&quot;&gt;&lt;span style=&quot;caret-color: rgb(181, 115, 157);&quot;&gt;用户选取音频片段&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="330" y="940" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TLxXplyurWotPnORb-Qy-10" value="&lt;font size=&quot;3&quot; color=&quot;#b5739d&quot;&gt;&lt;span style=&quot;caret-color: rgb(181, 115, 157);&quot;&gt;算法推荐音频片段&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1070" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
