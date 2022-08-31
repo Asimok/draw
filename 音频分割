@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T04:02:14.960Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="Pt_QkGu8nvOQdEwyiy7b" version="20.2.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-08-31T04:04:16.210Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="XWdjkooohi_kBL_HqjJE" version="20.2.7" type="github" pages="11">
   <diagram id="aEenoiBvwQlOfjcGmmM3" name="Page-1">
     <mxGraphModel dx="1426" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4322,8 +4322,20 @@
         <mxCell id="TLxXplyurWotPnORb-Qy-10" value="&lt;font size=&quot;3&quot; color=&quot;#b5739d&quot;&gt;&lt;span style=&quot;caret-color: rgb(181, 115, 157);&quot;&gt;算法推荐音频片段&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="330" y="1080" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TLxXplyurWotPnORb-Qy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;fontColor=#A680B8;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="TLxXplyurWotPnORb-Qy-15" target="TLxXplyurWotPnORb-Qy-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TLxXplyurWotPnORb-Qy-15" value="&lt;font size=&quot;3&quot; color=&quot;#b5739d&quot;&gt;&lt;span style=&quot;caret-color: rgb(181, 115, 157);&quot;&gt;节拍选择策略&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="560" y="1010" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TLxXplyurWotPnORb-Qy-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;fontColor=#A680B8;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="TLxXplyurWotPnORb-Qy-18" target="TLxXplyurWotPnORb-Qy-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TLxXplyurWotPnORb-Qy-18" value="&lt;font size=&quot;3&quot; color=&quot;#b5739d&quot;&gt;&lt;span style=&quot;caret-color: rgb(181, 115, 157);&quot;&gt;节拍重选优化&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1010" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TLxXplyurWotPnORb-Qy-20" value="&lt;font size=&quot;3&quot; color=&quot;#b5739d&quot;&gt;&lt;span style=&quot;caret-color: rgb(181, 115, 157);&quot;&gt;输出分割点&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1010" width="131" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
