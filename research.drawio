@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T12:38:06.809Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="qJd4RQsc2j-pElQwtlZl" version="22.1.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-11-15T12:52:19.615Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="04WrVczl9RoEkNd7Sv9-" version="22.1.1" type="github" pages="10">
   <diagram id="L-MYgFU7t1Wd9B6l5E1I" name="第 1 页">
     <mxGraphModel dx="2074" dy="1116" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2904,324 +2904,285 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oDYDRhqhscYFy3z1fs08" name="option-2">
-    <mxGraphModel dx="2457" dy="702" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1336" dy="728" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="i_cVpvH8k1a8kWVRzaKU-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
-          <mxGeometry x="44" y="289" width="982" height="293" as="geometry" />
+        <mxCell id="fQXQhIjTH6PW6IG6tI9w-51" value="" style="endArrow=classicThin;html=1;rounded=1;strokeWidth=1;endFill=1;strokeColor=#009999;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="697" y="589" as="sourcePoint" />
+            <mxPoint x="697" y="571" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fQXQhIjTH6PW6IG6tI9w-29" value="&lt;div style=&quot;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;I2OPd06UgoXwHoxmGDJclGKunMc&quot;&gt;&lt;div style=&quot;&quot; class=&quot;old-record-id-Yy6udGUAGoeq4YxWGWgc8CmznAh&quot;&gt;&lt;div style=&quot;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NbdFd5SYGoUSO3xgHZzc4H9knXb&quot;&gt;&lt;div class=&quot;old-record-id-LsEKdqQSworhZmxPmoCcQG5mnKg&quot; style=&quot;&quot;&gt;&lt;div style=&quot;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NbdFd5SYGoUSO3xgHZzc4H9knXb&quot;&gt;&lt;div style=&quot;&quot; class=&quot;ace-line ace-line old-record-id-AMYidXnhoo489fxQ9qdcv3c9nPg&quot;&gt;&lt;div style=&quot;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DzrBdluSSoG7XMxlqE0cG76in8f&quot;&gt;&lt;div style=&quot;text-align: justify;&quot; class=&quot;old-record-id-ZwCcdWxT8obwNoxGVnQc3IF4nQd&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=0;glass=0;container=0;labelBackgroundColor=none;fillStyle=dashed;opacity=80;fontColor=#333333;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="322" y="644" width="294" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="i_cVpvH8k1a8kWVRzaKU-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="16" y="275" width="848" height="293" as="geometry" />
         </mxCell>
         <mxCell id="SYPQnv13eH2TQmgy3DsK-5" value="&lt;div style=&quot;font-size: 15.360001px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;I2OPd06UgoXwHoxmGDJclGKunMc&quot;&gt;&lt;div style=&quot;font-size: 15.360001px;&quot; class=&quot;old-record-id-Yy6udGUAGoeq4YxWGWgc8CmznAh&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;glass=0;container=0;labelBackgroundColor=none;fillStyle=auto;opacity=80;" parent="1" vertex="1">
-          <mxGeometry x="699" y="350" width="235" height="222.25" as="geometry" />
+          <mxGeometry x="603" y="328" width="235" height="222.25" as="geometry" />
         </mxCell>
         <mxCell id="fQXQhIjTH6PW6IG6tI9w-46" value="&lt;div style=&quot;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;I2OPd06UgoXwHoxmGDJclGKunMc&quot;&gt;&lt;div style=&quot;&quot; class=&quot;old-record-id-Yy6udGUAGoeq4YxWGWgc8CmznAh&quot;&gt;&lt;div style=&quot;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NbdFd5SYGoUSO3xgHZzc4H9knXb&quot;&gt;&lt;div class=&quot;old-record-id-LsEKdqQSworhZmxPmoCcQG5mnKg&quot; style=&quot;&quot;&gt;&lt;div style=&quot;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NbdFd5SYGoUSO3xgHZzc4H9knXb&quot;&gt;&lt;div style=&quot;&quot; class=&quot;ace-line ace-line old-record-id-AMYidXnhoo489fxQ9qdcv3c9nPg&quot;&gt;&lt;div style=&quot;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DzrBdluSSoG7XMxlqE0cG76in8f&quot;&gt;&lt;div style=&quot;text-align: justify;&quot; class=&quot;old-record-id-ZwCcdWxT8obwNoxGVnQc3IF4nQd&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=0;glass=0;container=0;labelBackgroundColor=none;fillStyle=dashed;opacity=80;fontColor=#333333;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1601" y="658" width="132" height="160" as="geometry" />
+          <mxGeometry x="885" y="465" width="236" height="103" as="geometry" />
         </mxCell>
         <mxCell id="fQXQhIjTH6PW6IG6tI9w-27" value="&lt;div style=&quot;font-size: 15.360001px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;I2OPd06UgoXwHoxmGDJclGKunMc&quot;&gt;&lt;div style=&quot;font-size: 15.360001px;&quot; class=&quot;old-record-id-Yy6udGUAGoeq4YxWGWgc8CmznAh&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NbdFd5SYGoUSO3xgHZzc4H9knXb&quot;&gt;&lt;div class=&quot;old-record-id-LsEKdqQSworhZmxPmoCcQG5mnKg&quot; style=&quot;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NbdFd5SYGoUSO3xgHZzc4H9knXb&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-AMYidXnhoo489fxQ9qdcv3c9nPg&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;glass=0;container=0;labelBackgroundColor=none;fillStyle=auto;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="1326" y="655" width="244" height="163" as="geometry" />
+          <mxGeometry x="885" y="275" width="244" height="163" as="geometry" />
         </mxCell>
         <mxCell id="SYPQnv13eH2TQmgy3DsK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=3;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endSize=2;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="861.25" y="532.25" as="sourcePoint" />
-            <mxPoint x="863" y="510.25" as="targetPoint" />
+            <mxPoint x="765.25" y="510.25" as="sourcePoint" />
+            <mxPoint x="767" y="488.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SYPQnv13eH2TQmgy3DsK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=3;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;endSize=2;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="776.25" y="533.25" as="sourcePoint" />
-            <mxPoint x="777.75" y="511.25" as="targetPoint" />
+            <mxPoint x="680.25" y="511.25" as="sourcePoint" />
+            <mxPoint x="681.75" y="489.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SYPQnv13eH2TQmgy3DsK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=3;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endSize=2;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="884.63" y="418.93" as="sourcePoint" />
-            <mxPoint x="886.38" y="396.93" as="targetPoint" />
+            <mxPoint x="788.63" y="396.93" as="sourcePoint" />
+            <mxPoint x="790.38" y="374.93" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z_-y25RAIk3ox67iDjRu-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="350" y="604" width="294" height="51" as="geometry" />
+          <mxGeometry x="322" y="590" width="294" height="51" as="geometry" />
         </mxCell>
         <mxCell id="z_-y25RAIk3ox67iDjRu-4" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NbdFd5SYGoUSO3xgHZzc4H9knXb&quot;&gt;&lt;div class=&quot;old-record-id-AMYidXnhoo489fxQ9qdcv3c9nPg&quot;&gt;&lt;b&gt;Question&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="350" y="661" width="94" height="39" as="geometry" />
+          <mxGeometry x="329" y="650.62" width="80" height="30.38" as="geometry" />
         </mxCell>
         <mxCell id="z_-y25RAIk3ox67iDjRu-9" value="&lt;span&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Option A&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="358" y="611" width="70" height="40" as="geometry" />
+          <mxGeometry x="330" y="597" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z_-y25RAIk3ox67iDjRu-10" value="&lt;span&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Option B&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="428" y="611" width="70" height="40" as="geometry" />
+          <mxGeometry x="400" y="597" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z_-y25RAIk3ox67iDjRu-12" value="&lt;span&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Option C&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="498" y="611" width="70" height="40" as="geometry" />
+          <mxGeometry x="470" y="597" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z_-y25RAIk3ox67iDjRu-13" value="&lt;span&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Option D&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="568" y="611" width="70" height="40" as="geometry" />
+          <mxGeometry x="540" y="597" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z_-y25RAIk3ox67iDjRu-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="47" y="603" width="294" height="97" as="geometry" />
+          <mxGeometry x="19" y="589" width="294" height="97" as="geometry" />
         </mxCell>
         <mxCell id="z_-y25RAIk3ox67iDjRu-22" value="Chunk&lt;sub&gt;1&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="55" y="653" width="80" height="40" as="geometry" />
+          <mxGeometry x="27" y="639" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z_-y25RAIk3ox67iDjRu-23" value="Chunk&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;2&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="135" y="653" width="80" height="40" as="geometry" />
+          <mxGeometry x="107" y="639" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z_-y25RAIk3ox67iDjRu-25" value="Chunk&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;n&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="255" y="653" width="80" height="40" as="geometry" />
+          <mxGeometry x="227" y="639" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z_-y25RAIk3ox67iDjRu-26" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 13px;&quot;&gt;Passage&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="58" y="608.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="30" y="594.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z_-y25RAIk3ox67iDjRu-27" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="205" y="655" width="60" height="30" as="geometry" />
+          <mxGeometry x="177" y="641" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i_cVpvH8k1a8kWVRzaKU-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="58" y="345" width="215" height="68.5" as="geometry" />
+          <mxGeometry x="30" y="331" width="215" height="68.5" as="geometry" />
         </mxCell>
         <mxCell id="i_cVpvH8k1a8kWVRzaKU-2" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Caption&lt;sub&gt;1&lt;/sub&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="63" y="375" width="58" height="30.5" as="geometry" />
+          <mxGeometry x="35" y="361" width="58" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="i_cVpvH8k1a8kWVRzaKU-5" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 13px;&quot;&gt;Knowledge Bank&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="66" y="302.25" width="160" height="30" as="geometry" />
+          <mxGeometry x="38" y="288.25" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i_cVpvH8k1a8kWVRzaKU-12" value="&lt;b&gt;Chunk&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="58" y="345" width="60" height="30" as="geometry" />
+          <mxGeometry x="30" y="331" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i_cVpvH8k1a8kWVRzaKU-20" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="186" y="375" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="i_cVpvH8k1a8kWVRzaKU-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1350" y="132.75" width="300" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="i_cVpvH8k1a8kWVRzaKU-37" value="S&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;1&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1365" y="182.75" width="35" height="30.5" as="geometry" />
-        </mxCell>
-        <mxCell id="i_cVpvH8k1a8kWVRzaKU-38" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 13px;&quot;&gt;Query Aware Canditates&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1360" y="142.75" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="i_cVpvH8k1a8kWVRzaKU-39" value="S&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;3&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1410" y="182.75" width="35" height="30.5" as="geometry" />
-        </mxCell>
-        <mxCell id="i_cVpvH8k1a8kWVRzaKU-40" value="S&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;4&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1445" y="182.75" width="35" height="30.5" as="geometry" />
-        </mxCell>
-        <mxCell id="i_cVpvH8k1a8kWVRzaKU-43" value="S&lt;span style=&quot;font-size: 10px;&quot;&gt;24&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1490" y="182.75" width="35" height="30.5" as="geometry" />
-        </mxCell>
-        <mxCell id="i_cVpvH8k1a8kWVRzaKU-44" value="S&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;n&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1560" y="183.25" width="35" height="30.5" as="geometry" />
-        </mxCell>
-        <mxCell id="i_cVpvH8k1a8kWVRzaKU-48" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1512.5" y="183.25" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="i_cVpvH8k1a8kWVRzaKU-53" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1675" y="130" width="90" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="i_cVpvH8k1a8kWVRzaKU-54" value="S&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;1&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1700" y="173.5" width="35" height="30.5" as="geometry" />
-        </mxCell>
-        <mxCell id="i_cVpvH8k1a8kWVRzaKU-55" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 13px;&quot;&gt;Select Context&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1673" y="137" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="i_cVpvH8k1a8kWVRzaKU-56" value="S&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;3&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1700" y="211.5" width="35" height="30.5" as="geometry" />
-        </mxCell>
-        <mxCell id="i_cVpvH8k1a8kWVRzaKU-57" value="S&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;4&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1700" y="243" width="35" height="30.5" as="geometry" />
-        </mxCell>
-        <mxCell id="i_cVpvH8k1a8kWVRzaKU-58" value="S&lt;span style=&quot;font-size: 10px;&quot;&gt;24&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1700" y="307" width="35" height="30.5" as="geometry" />
-        </mxCell>
-        <mxCell id="i_cVpvH8k1a8kWVRzaKU-59" value="S&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;n&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1700" y="355.5" width="35" height="30.5" as="geometry" />
-        </mxCell>
-        <mxCell id="i_cVpvH8k1a8kWVRzaKU-60" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1688" y="326.25" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="i_cVpvH8k1a8kWVRzaKU-61" value="S&lt;span style=&quot;font-size: 10px;&quot;&gt;5&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1700" y="273.5" width="35" height="30.5" as="geometry" />
+          <mxGeometry x="158" y="361" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SYPQnv13eH2TQmgy3DsK-7" value="&lt;font color=&quot;#666666&quot; style=&quot;font-size: 15px;&quot;&gt;Transformer Layer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#d79b00;strokeWidth=1;fontSize=15;fillColor=#ffe6cc;" parent="1" vertex="1">
-          <mxGeometry x="719" y="418" width="200" height="40" as="geometry" />
+          <mxGeometry x="623" y="396" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SYPQnv13eH2TQmgy3DsK-9" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#d79b00;strokeWidth=1;fontSize=15;fillColor=#ffe6cc;" parent="1" vertex="1">
-          <mxGeometry x="719" y="531" width="198" height="24.25" as="geometry" />
+          <mxGeometry x="623" y="509" width="198" height="24.25" as="geometry" />
         </mxCell>
         <mxCell id="SYPQnv13eH2TQmgy3DsK-14" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=1;jumpSize=7;endSize=6;entryX=0.173;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#ffe6cc;strokeColor=#d79b00;exitX=0.172;exitY=0.991;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="SYPQnv13eH2TQmgy3DsK-9" edge="1" source="SYPQnv13eH2TQmgy3DsK-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="739" y="554.25" as="sourcePoint" />
-            <mxPoint x="740" y="535.25" as="targetPoint" />
+            <mxPoint x="643" y="532.25" as="sourcePoint" />
+            <mxPoint x="644" y="513.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SYPQnv13eH2TQmgy3DsK-15" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=1;jumpSize=7;endSize=6;fillColor=#ffe6cc;strokeColor=#d79b00;entryX=0.435;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.434;exitY=0.94;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="813.0020000000001" y="554.2650000000001" as="sourcePoint" />
-            <mxPoint x="813.1999999999999" y="531.73675" as="targetPoint" />
+            <mxPoint x="717.0020000000001" y="532.2650000000001" as="sourcePoint" />
+            <mxPoint x="717.1999999999999" y="509.73675000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SYPQnv13eH2TQmgy3DsK-16" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=1;jumpSize=7;endSize=6;entryX=0.173;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="851" y="555" as="sourcePoint" />
-            <mxPoint x="851.094" y="532.25" as="targetPoint" />
+            <mxPoint x="755" y="533" as="sourcePoint" />
+            <mxPoint x="755.094" y="510.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SYPQnv13eH2TQmgy3DsK-19" value="yes/no" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="861" y="376" width="58" height="20.5" as="geometry" />
+          <mxGeometry x="765" y="354" width="58" height="20.5" as="geometry" />
         </mxCell>
         <mxCell id="fQXQhIjTH6PW6IG6tI9w-3" value="&lt;div style=&quot;font-size: 15.360001px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;I2OPd06UgoXwHoxmGDJclGKunMc&quot;&gt;&lt;div style=&quot;font-size: 15.360001px;&quot; class=&quot;old-record-id-Yy6udGUAGoeq4YxWGWgc8CmznAh&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NbdFd5SYGoUSO3xgHZzc4H9knXb&quot;&gt;&lt;div class=&quot;old-record-id-LsEKdqQSworhZmxPmoCcQG5mnKg&quot; style=&quot;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NbdFd5SYGoUSO3xgHZzc4H9knXb&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-AMYidXnhoo489fxQ9qdcv3c9nPg&quot;&gt;&lt;b style=&quot;color: rgb(0, 51, 102); background-color: initial;&quot;&gt;LLM&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;glass=0;container=0;labelBackgroundColor=none;fillStyle=auto;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="1336" y="698" width="104" height="100" as="geometry" />
+          <mxGeometry x="895" y="318" width="104" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fQXQhIjTH6PW6IG6tI9w-4" value="&lt;div style=&quot;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;I2OPd06UgoXwHoxmGDJclGKunMc&quot;&gt;&lt;div style=&quot;&quot; class=&quot;old-record-id-Yy6udGUAGoeq4YxWGWgc8CmznAh&quot;&gt;&lt;div style=&quot;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NbdFd5SYGoUSO3xgHZzc4H9knXb&quot;&gt;&lt;div class=&quot;old-record-id-LsEKdqQSworhZmxPmoCcQG5mnKg&quot; style=&quot;&quot;&gt;&lt;div style=&quot;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NbdFd5SYGoUSO3xgHZzc4H9knXb&quot;&gt;&lt;div style=&quot;&quot; class=&quot;ace-line ace-line old-record-id-AMYidXnhoo489fxQ9qdcv3c9nPg&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#009999&quot;&gt;Answer&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=0;glass=0;container=0;labelBackgroundColor=none;fillStyle=auto;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="1612" y="668" width="110" height="60" as="geometry" />
+          <mxGeometry x="897.5" y="486.5" width="68" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fQXQhIjTH6PW6IG6tI9w-12" value="" style="endArrow=classicThin;html=1;rounded=1;strokeWidth=2;endFill=1;strokeColor=#d79b00;fillColor=#ffe6cc;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="975" y="356.5799999999999" as="sourcePoint" />
-            <mxPoint x="995" y="356.5799999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fQXQhIjTH6PW6IG6tI9w-13" value="" style="endArrow=classicThin;html=1;rounded=1;strokeWidth=2;endFill=1;strokeColor=#d79b00;fillColor=#ffe6cc;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="976" y="509.5799999999999" as="sourcePoint" />
-            <mxPoint x="996" y="509.5799999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fQXQhIjTH6PW6IG6tI9w-16" value="" style="endArrow=classicThin;html=1;rounded=1;strokeWidth=2;endFill=1;strokeColor=#009999;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1654" y="188.32999999999998" as="sourcePoint" />
-            <mxPoint x="1674" y="188.32999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fQXQhIjTH6PW6IG6tI9w-18" value="" style="endArrow=classicThin;html=1;rounded=1;strokeWidth=2;endFill=1;strokeColor=#009999;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1654" y="341.33" as="sourcePoint" />
-            <mxPoint x="1674" y="341.33" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fQXQhIjTH6PW6IG6tI9w-23" value="" style="endArrow=classicThin;html=1;rounded=1;strokeWidth=2;endFill=1;strokeColor=#009999;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1297" y="727" as="sourcePoint" />
-            <mxPoint x="1323" y="727" as="targetPoint" />
+            <mxPoint x="567" y="369" as="sourcePoint" />
+            <mxPoint x="597" y="369" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fQXQhIjTH6PW6IG6tI9w-28" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 13px;&quot;&gt;Finetuning&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1335" y="658" width="160" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="fQXQhIjTH6PW6IG6tI9w-29" value="&lt;div style=&quot;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;I2OPd06UgoXwHoxmGDJclGKunMc&quot;&gt;&lt;div style=&quot;&quot; class=&quot;old-record-id-Yy6udGUAGoeq4YxWGWgc8CmznAh&quot;&gt;&lt;div style=&quot;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NbdFd5SYGoUSO3xgHZzc4H9knXb&quot;&gt;&lt;div class=&quot;old-record-id-LsEKdqQSworhZmxPmoCcQG5mnKg&quot; style=&quot;&quot;&gt;&lt;div style=&quot;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NbdFd5SYGoUSO3xgHZzc4H9knXb&quot;&gt;&lt;div style=&quot;&quot; class=&quot;ace-line ace-line old-record-id-AMYidXnhoo489fxQ9qdcv3c9nPg&quot;&gt;&lt;div style=&quot;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DzrBdluSSoG7XMxlqE0cG76in8f&quot;&gt;&lt;div style=&quot;text-align: justify;&quot; class=&quot;old-record-id-ZwCcdWxT8obwNoxGVnQc3IF4nQd&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=0;glass=0;container=0;labelBackgroundColor=none;fillStyle=dashed;opacity=80;fontColor=#333333;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="284" y="35" width="173" height="48.25" as="geometry" />
+          <mxGeometry x="894" y="278" width="160" height="33" as="geometry" />
         </mxCell>
         <mxCell id="fQXQhIjTH6PW6IG6tI9w-30" value="&lt;div style=&quot;font-size: 15.360001px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;I2OPd06UgoXwHoxmGDJclGKunMc&quot;&gt;&lt;div style=&quot;font-size: 15.360001px;&quot; class=&quot;old-record-id-Yy6udGUAGoeq4YxWGWgc8CmznAh&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NbdFd5SYGoUSO3xgHZzc4H9knXb&quot;&gt;&lt;div class=&quot;old-record-id-LsEKdqQSworhZmxPmoCcQG5mnKg&quot; style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NbdFd5SYGoUSO3xgHZzc4H9knXb&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-AMYidXnhoo489fxQ9qdcv3c9nPg&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DzrBdluSSoG7XMxlqE0cG76in8f&quot;&gt;&lt;div class=&quot;old-record-id-ZwCcdWxT8obwNoxGVnQc3IF4nQd&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DzrBdluSSoG7XMxlqE0cG76in8f&quot;&gt;&lt;pre class=&quot;ace-line ace-line old-record-id-KoQpdHg80ooXVRxz5DfcN48Enpf&quot;&gt;&lt;br&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=0;glass=0;container=0;labelBackgroundColor=none;fillStyle=hatch;opacity=80;align=left;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="30" y="130" width="640" height="90" as="geometry" />
+          <mxGeometry x="632" y="593" width="510" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="fQXQhIjTH6PW6IG6tI9w-33" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DzrBdluSSoG7XMxlqE0cG76in8f&quot;&gt;&lt;pre class=&quot;ace-line ace-line old-record-id-KoQpdHg80ooXVRxz5DfcN48Enpf&quot;&gt;&lt;code data-wrap=&quot;false&quot; class=&quot;language-JSON&quot;&gt;A. 小说讲述了七岁的金海刚刚回到家乡时发生的故事，故事充满海边小村的生活气息，富有地方特色，吸引读者。&lt;br/&gt;B. 冠陇村这个小渔村里的人们还过着非常传统落后的生活，这也间接反映出当时人们离开故乡、闯荡南洋的动机。&lt;br/&gt;C. 祠堂中的老者叮嘱大娘好好抚养金海，这也促使大娘下定决心要送金海入私塾读书，也为后文做了很好的铺垫。&lt;br/&gt;D．小说的语言朴实亲切，通过对人物的语言、神态、动作、外貌和心理的描写，形象地刻画了金海和大娘的形象。&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="38" y="125" width="630" height="100" as="geometry" />
+        <mxCell id="fQXQhIjTH6PW6IG6tI9w-33" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DzrBdluSSoG7XMxlqE0cG76in8f&quot;&gt;&lt;pre class=&quot;ace-line ace-line old-record-id-KoQpdHg80ooXVRxz5DfcN48Enpf&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;MV7mdKlGkoLxBBxnZgEcSvsun9g&quot;&gt;&lt;pre class=&quot;ace-line ace-line old-record-id-BT0AdYiUCoJmvyx8Yt9cstokntg&quot;&gt;&lt;code data-wrap=&quot;false&quot; class=&quot;language-Plain Text&quot;&gt;A 苏逢吉常替做高祖从事的父亲撰写文辞，又精灵聪明，兼之善于察言观色，甚得汉高祖宠信。&lt;br&gt;B 苏逢吉虽贪恋财货，但毕竟学问高深，处事干练，以朝廷大事为己任，老百姓没有不称道的。&lt;br&gt;C 文章承袭春秋笔法，秉笔直书，虽选材广泛，但结构严谨，文字凝练，使人物形象更为丰满。&lt;br&gt;D 文章列举事例，正侧结合描写苏逢吉，张令柔捕盗杀民，皆因苏逢吉之故，即属于侧面描写。&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="632" y="594.5" width="522" height="94" as="geometry" />
         </mxCell>
         <mxCell id="fQXQhIjTH6PW6IG6tI9w-39" value="&lt;div style=&quot;font-size: 15.360001px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;I2OPd06UgoXwHoxmGDJclGKunMc&quot;&gt;&lt;div style=&quot;font-size: 15.360001px;&quot; class=&quot;old-record-id-Yy6udGUAGoeq4YxWGWgc8CmznAh&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NbdFd5SYGoUSO3xgHZzc4H9knXb&quot;&gt;&lt;div class=&quot;old-record-id-LsEKdqQSworhZmxPmoCcQG5mnKg&quot; style=&quot;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NbdFd5SYGoUSO3xgHZzc4H9knXb&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-AMYidXnhoo489fxQ9qdcv3c9nPg&quot;&gt;&lt;b style=&quot;color: rgb(0, 51, 102); background-color: initial;&quot;&gt;LoRA&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;glass=0;container=0;labelBackgroundColor=none;fillStyle=auto;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="1454" y="698" width="104" height="100" as="geometry" />
+          <mxGeometry x="1013" y="318" width="104" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="fQXQhIjTH6PW6IG6tI9w-45" value="&lt;div style=&quot;line-height: 20%; font-size: 11px;&quot;&gt;&lt;pre style=&quot;text-align: justify; border-color: var(--border-color); line-height: 20%;&quot; class=&quot;ace-line ace-line old-record-id-KoQpdHg80ooXVRxz5DfcN48Enpf&quot;&gt;&lt;code style=&quot;border-color: var(--border-color);&quot; data-wrap=&quot;false&quot; class=&quot;language-JSON&quot;&gt;D．小说的语言朴实亲&lt;/code&gt;&lt;/pre&gt;&lt;pre style=&quot;text-align: justify; border-color: var(--border-color); line-height: 20%;&quot; class=&quot;ace-line ace-line old-record-id-KoQpdHg80ooXVRxz5DfcN48Enpf&quot;&gt;&lt;code style=&quot;border-color: var(--border-color);&quot; data-wrap=&quot;false&quot; class=&quot;language-JSON&quot;&gt;切，通过&lt;/code&gt;对人物的语言、&lt;/pre&gt;&lt;pre style=&quot;text-align: justify; border-color: var(--border-color); line-height: 20%;&quot; class=&quot;ace-line ace-line old-record-id-KoQpdHg80ooXVRxz5DfcN48Enpf&quot;&gt;神态、动作、外貌和心&lt;/pre&gt;&lt;pre style=&quot;text-align: justify; border-color: var(--border-color); line-height: 20%;&quot; class=&quot;ace-line ace-line old-record-id-KoQpdHg80ooXVRxz5DfcN48Enpf&quot;&gt;理的描写，形象地刻画&lt;/pre&gt;&lt;pre style=&quot;text-align: justify; border-color: var(--border-color); line-height: 20%;&quot; class=&quot;ace-line ace-line old-record-id-KoQpdHg80ooXVRxz5DfcN48Enpf&quot;&gt;&lt;code style=&quot;border-color: var(--border-color);&quot; data-wrap=&quot;false&quot; class=&quot;language-JSON&quot;&gt;了金海和大娘的形象。&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1597" y="725" width="139" height="89" as="geometry" />
-        </mxCell>
-        <mxCell id="fQXQhIjTH6PW6IG6tI9w-48" value="" style="endArrow=classicThin;html=1;rounded=1;strokeWidth=2;endFill=1;strokeColor=#009999;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1573" y="728" as="sourcePoint" />
-            <mxPoint x="1599" y="728" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="fQXQhIjTH6PW6IG6tI9w-45" value="&lt;div style=&quot;line-height: 20%; font-size: 11px;&quot;&gt;&lt;pre style=&quot;text-align: justify; border-color: var(--border-color); line-height: 20%;&quot; class=&quot;ace-line ace-line old-record-id-KoQpdHg80ooXVRxz5DfcN48Enpf&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;MV7mdKlGkoLxBBxnZgEcSvsun9g&quot;&gt;&lt;div class=&quot;old-record-id-YAy0d5kbKo9NwcxwWL2c3Hf2nib&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1086.5" y="504" width="18" height="36" as="geometry" />
         </mxCell>
         <mxCell id="fQXQhIjTH6PW6IG6tI9w-50" value="&lt;div style=&quot;font-size: 15.360001px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;I2OPd06UgoXwHoxmGDJclGKunMc&quot;&gt;&lt;div style=&quot;font-size: 15.360001px;&quot; class=&quot;old-record-id-Yy6udGUAGoeq4YxWGWgc8CmznAh&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NbdFd5SYGoUSO3xgHZzc4H9knXb&quot;&gt;&lt;div class=&quot;old-record-id-LsEKdqQSworhZmxPmoCcQG5mnKg&quot; style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NbdFd5SYGoUSO3xgHZzc4H9knXb&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-AMYidXnhoo489fxQ9qdcv3c9nPg&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DzrBdluSSoG7XMxlqE0cG76in8f&quot;&gt;&lt;div class=&quot;old-record-id-ZwCcdWxT8obwNoxGVnQc3IF4nQd&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DzrBdluSSoG7XMxlqE0cG76in8f&quot;&gt;&lt;pre class=&quot;ace-line ace-line old-record-id-KoQpdHg80ooXVRxz5DfcN48Enpf&quot;&gt;&lt;br&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=0;glass=0;container=0;labelBackgroundColor=none;fillStyle=hatch;opacity=80;align=left;fontColor=#333333;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="284" y="345" width="303" height="79.75" as="geometry" />
-        </mxCell>
-        <mxCell id="fQXQhIjTH6PW6IG6tI9w-49" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DzrBdluSSoG7XMxlqE0cG76in8f&quot;&gt;&lt;pre class=&quot;ace-line ace-line old-record-id-KoQpdHg80ooXVRxz5DfcN48Enpf&quot;&gt;&lt;div style=&quot;border-color: var(--border-color); font-family: Helvetica; font-size: 11px; text-align: justify;&quot; class=&quot;old-record-id-SVTLdugiGoTzZ5x3yN7cBQf8n9L&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;MV7mdKlGkoLxBBxnZgEcSvsun9g&quot;&gt;&lt;div class=&quot;old-record-id-YAy0d5kbKo9NwcxwWL2c3Hf2nib&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;MV7mdKlGkoLxBBxnZgEcSvsun9g&quot;&gt;&lt;pre class=&quot;ace-line ace-line old-record-id-MHsZdyYQPokxIzxDglwcdHE7nVt&quot;&gt;&lt;code data-wrap=&quot;true&quot; class=&quot;language-Plain Text&quot;&gt;这段文本主要介绍了明代著名学者和文学家王阳明的一生他出生于一个书香门第的家庭，&lt;/code&gt;&lt;/pre&gt;&lt;pre class=&quot;ace-line ace-line old-record-id-MHsZdyYQPokxIzxDglwcdHE7nVt&quot;&gt;自幼喜欢学习，并在父亲的帮助下成为了一名秘书省校书郎后来通过科举考试，&lt;/pre&gt;&lt;pre class=&quot;ace-line ace-line old-record-id-MHsZdyYQPokxIzxDglwcdHE7nVt&quot;&gt;&lt;code data-wrap=&quot;true&quot; class=&quot;language-Plain Text&quot;&gt;被任命为知伊阙、任丘县的官员在任职期间，他勤奋好学，善于思考，并创作了许多重要的著作&lt;/code&gt;&lt;/pre&gt;&lt;pre class=&quot;ace-line ace-line old-record-id-MHsZdyYQPokxIzxDglwcdHE7nVt&quot;&gt;&lt;code data-wrap=&quot;true&quot; class=&quot;language-Plain Text&quot;&gt;如《三朝宝训》他还曾担任过尚书的职务，参与了制定许多政策和法律他的妻子是陈尧佐的女儿，&lt;br/&gt;但两人并没有在一起生活最终，他在明英宗时期担任了多个重要职位，包括尚书度支员外郎、直集贤院等他的贡献得到了皇帝的赏识，并被授予了很多荣誉和官职及狄青是枢密使，&lt;br/&gt;他建议将青兵派往前线打仗然而，由于青兵的数量不足，无法夺取胜利因此，帝决定解其职务并给予奖励帝任命他为尚书省和开封府的知州，同时授予他翰林侍读学士头衔在阅读历史文献时，及狄青经常提醒皇帝注意过去的历史教训，以避免再次发生类似的问题最后，帝将其封为安简侯爵，并将他的著作收录到《平山集》、《中书制集》和《内制集》等书中&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;DzrBdluSSoG7XMxlqE0cG76in8f&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;大娘低头望着金海 “没有 ”金海心里将饭桌上人的衣着与村里种田和打鱼的人身上的穿戴进行了一番对照后&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+1d&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7121335665014407196&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:true,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:898,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:1768,&amp;quot;end&amp;quot;:1817},&amp;quot;recordId&amp;quot;:&amp;quot;SVTLdugiGoTzZ5x3yN7cBQf8n9L&amp;quot;}],&amp;quot;payloadMap&amp;quot;:{},&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-542" y="698" width="1756" height="148" as="geometry" />
-        </mxCell>
-        <mxCell id="fQXQhIjTH6PW6IG6tI9w-51" value="" style="endArrow=classicThin;html=1;rounded=1;strokeWidth=1;endFill=1;strokeColor=#009999;dashed=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1063.58" y="249" as="sourcePoint" />
-            <mxPoint x="1063.58" y="220" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="256" y="331" width="303" height="79.75" as="geometry" />
         </mxCell>
         <mxCell id="7vLbPiAOQzQKEIJkGnL1-2" value="&lt;sub style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;&quot;&gt;S&lt;sub&gt;1_1&lt;/sub&gt;&lt;/span&gt;&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="122" y="375" width="40" height="30.5" as="geometry" />
+          <mxGeometry x="94" y="361" width="40" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="7vLbPiAOQzQKEIJkGnL1-3" value="&lt;sub style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;&quot;&gt;S&lt;sub&gt;1_2&lt;/sub&gt;&lt;/span&gt;&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="163" y="375" width="40" height="30.5" as="geometry" />
+          <mxGeometry x="135" y="361" width="40" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="7vLbPiAOQzQKEIJkGnL1-5" value="&lt;sub style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;&quot;&gt;S&lt;sub&gt;1_k&lt;/sub&gt;&lt;/span&gt;&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="226" y="374.5" width="40" height="30.5" as="geometry" />
+          <mxGeometry x="198" y="360.5" width="40" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="7vLbPiAOQzQKEIJkGnL1-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="58" y="435" width="215" height="68.5" as="geometry" />
+          <mxGeometry x="30" y="421" width="215" height="68.5" as="geometry" />
         </mxCell>
         <mxCell id="7vLbPiAOQzQKEIJkGnL1-8" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Caption&lt;sub&gt;n_1&lt;/sub&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="63" y="465" width="63" height="30.5" as="geometry" />
+          <mxGeometry x="35" y="451" width="63" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="7vLbPiAOQzQKEIJkGnL1-9" value="&lt;b&gt;Chunk&lt;span style=&quot;font-size: 10px;&quot;&gt;n&lt;/span&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="58" y="435" width="60" height="30" as="geometry" />
+          <mxGeometry x="30" y="421" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7vLbPiAOQzQKEIJkGnL1-10" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="189" y="465" width="60" height="30" as="geometry" />
+          <mxGeometry x="161" y="451" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7vLbPiAOQzQKEIJkGnL1-11" value="&lt;sub style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;&quot;&gt;S&lt;sub&gt;n_1&lt;/sub&gt;&lt;/span&gt;&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="127" y="465" width="40" height="30.5" as="geometry" />
+          <mxGeometry x="99" y="451" width="40" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="7vLbPiAOQzQKEIJkGnL1-12" value="&lt;sub style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;&quot;&gt;S&lt;sub&gt;n_2&lt;/sub&gt;&lt;/span&gt;&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="167" y="465" width="40" height="30.5" as="geometry" />
+          <mxGeometry x="139" y="451" width="40" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="7vLbPiAOQzQKEIJkGnL1-13" value="&lt;sub style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;&quot;&gt;S&lt;sub&gt;n_k&lt;/sub&gt;&lt;/span&gt;&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="228" y="463" width="40" height="32" as="geometry" />
+          <mxGeometry x="200" y="449" width="40" height="32" as="geometry" />
         </mxCell>
         <mxCell id="7vLbPiAOQzQKEIJkGnL1-14" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="132.5" y="405" width="60" height="30" as="geometry" />
+          <mxGeometry x="104.5" y="391" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7vLbPiAOQzQKEIJkGnL1-15" value="&lt;div style=&quot;font-size: 15.360001px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;I2OPd06UgoXwHoxmGDJclGKunMc&quot;&gt;&lt;div style=&quot;font-size: 15.360001px;&quot; class=&quot;old-record-id-Yy6udGUAGoeq4YxWGWgc8CmznAh&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NbdFd5SYGoUSO3xgHZzc4H9knXb&quot;&gt;&lt;div class=&quot;old-record-id-LsEKdqQSworhZmxPmoCcQG5mnKg&quot; style=&quot;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NbdFd5SYGoUSO3xgHZzc4H9knXb&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-AMYidXnhoo489fxQ9qdcv3c9nPg&quot;&gt;&lt;b style=&quot;color: rgb(0, 51, 102); background-color: initial;&quot;&gt;TechGPT&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;glass=0;container=0;labelBackgroundColor=none;fillStyle=auto;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="105" y="519.51" width="454" height="47.25" as="geometry" />
+          <mxGeometry x="61" y="506.38" width="454" height="47.25" as="geometry" />
         </mxCell>
         <mxCell id="7vLbPiAOQzQKEIJkGnL1-22" value="SEP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="811" y="531" width="42" height="26" as="geometry" />
+          <mxGeometry x="715" y="509" width="42" height="26" as="geometry" />
         </mxCell>
         <mxCell id="7vLbPiAOQzQKEIJkGnL1-23" value="Context" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="854" y="530.13" width="59" height="26" as="geometry" />
+          <mxGeometry x="758" y="508.13" width="59" height="26" as="geometry" />
         </mxCell>
         <mxCell id="7vLbPiAOQzQKEIJkGnL1-28" value="CLS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="716" y="531" width="41" height="26" as="geometry" />
+          <mxGeometry x="620" y="509" width="41" height="26" as="geometry" />
         </mxCell>
         <mxCell id="7vLbPiAOQzQKEIJkGnL1-29" value="Query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="757" y="530" width="51" height="26" as="geometry" />
+          <mxGeometry x="661" y="508" width="51" height="26" as="geometry" />
         </mxCell>
         <mxCell id="7vLbPiAOQzQKEIJkGnL1-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=3;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endSize=2;strokeColor=#d79b00;fillColor=#ffe6cc;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="860.25" y="479.25" as="sourcePoint" />
-            <mxPoint x="862" y="457.25" as="targetPoint" />
+            <mxPoint x="764.25" y="457.25" as="sourcePoint" />
+            <mxPoint x="766" y="435.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7vLbPiAOQzQKEIJkGnL1-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=3;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;endSize=2;strokeColor=#d79b00;fillColor=#ffe6cc;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="776" y="479.93" as="sourcePoint" />
-            <mxPoint x="777.5" y="457.93" as="targetPoint" />
+            <mxPoint x="680" y="457.93" as="sourcePoint" />
+            <mxPoint x="681.5" y="435.93" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SYPQnv13eH2TQmgy3DsK-8" value="&lt;font size=&quot;1&quot; color=&quot;#666666&quot;&gt;&lt;span style=&quot;caret-color: rgb(102, 102, 102); font-size: 13px;&quot;&gt;Embedding Layer&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#d79b00;strokeWidth=1;fontSize=15;fillColor=#ffe6cc;" parent="1" vertex="1">
-          <mxGeometry x="719" y="478" width="199" height="32.25" as="geometry" />
+          <mxGeometry x="623" y="456" width="199" height="32.25" as="geometry" />
         </mxCell>
         <mxCell id="7vLbPiAOQzQKEIJkGnL1-36" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 13px;&quot;&gt;Checker&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="713" y="350.5" width="207" height="30" as="geometry" />
+          <mxGeometry x="617" y="328.5" width="207" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7vLbPiAOQzQKEIJkGnL1-39" value="&lt;div style=&quot;font-size: 15.360001px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;I2OPd06UgoXwHoxmGDJclGKunMc&quot;&gt;&lt;div style=&quot;font-size: 15.360001px;&quot; class=&quot;old-record-id-Yy6udGUAGoeq4YxWGWgc8CmznAh&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NbdFd5SYGoUSO3xgHZzc4H9knXb&quot;&gt;&lt;div class=&quot;old-record-id-LsEKdqQSworhZmxPmoCcQG5mnKg&quot; style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NbdFd5SYGoUSO3xgHZzc4H9knXb&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-AMYidXnhoo489fxQ9qdcv3c9nPg&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DzrBdluSSoG7XMxlqE0cG76in8f&quot;&gt;&lt;div class=&quot;old-record-id-ZwCcdWxT8obwNoxGVnQc3IF4nQd&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DzrBdluSSoG7XMxlqE0cG76in8f&quot;&gt;&lt;pre class=&quot;ace-line ace-line old-record-id-KoQpdHg80ooXVRxz5DfcN48Enpf&quot;&gt;&lt;br&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=0;glass=0;container=0;labelBackgroundColor=none;fillStyle=hatch;opacity=80;align=left;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="283" y="430.5" width="304" height="73" as="geometry" />
+          <mxGeometry x="255" y="416.5" width="304" height="73" as="geometry" />
         </mxCell>
         <mxCell id="7vLbPiAOQzQKEIJkGnL1-41" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Caption&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="342" width="55" height="26" as="geometry" />
+          <mxGeometry x="252" y="328" width="55" height="26" as="geometry" />
         </mxCell>
         <mxCell id="7vLbPiAOQzQKEIJkGnL1-42" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Sentences&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="428" width="68" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="7vLbPiAOQzQKEIJkGnL1-43" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="426" y="235" width="40" height="26" as="geometry" />
+          <mxGeometry x="252" y="414" width="68" height="26" as="geometry" />
         </mxCell>
         <mxCell id="7vLbPiAOQzQKEIJkGnL1-44" value="&lt;p style=&quot;line-height: 70%;&quot;&gt;&lt;/p&gt;&lt;pre style=&quot;border-color: var(--border-color); font-size: 11px; text-align: justify; line-height: 20%;&quot; class=&quot;ace-line ace-line old-record-id-MHsZdyYQPokxIzxDglwcdHE7nVt&quot;&gt;s1:苏逢吉，京兆长安人也 汉高祖镇河东，父悦为高祖从事...&lt;/pre&gt;&lt;pre style=&quot;border-color: var(--border-color); font-size: 11px; text-align: justify; line-height: 20%;&quot; class=&quot;ace-line ace-line old-record-id-MHsZdyYQPokxIzxDglwcdHE7nVt&quot;&gt;s2:逢吉常代悦作奏记，悦乃言之高祖 高祖召见逢吉...&lt;/pre&gt;&lt;pre style=&quot;border-color: var(--border-color); font-size: 11px; text-align: justify; line-height: 20%;&quot; class=&quot;ace-line ace-line old-record-id-MHsZdyYQPokxIzxDglwcdHE7nVt&quot;&gt;...&lt;/pre&gt;&lt;pre style=&quot;border-color: var(--border-color); font-size: 11px; text-align: justify; line-height: 20%;&quot; class=&quot;ace-line ace-line old-record-id-MHsZdyYQPokxIzxDglwcdHE7nVt&quot;&gt;sn:然逢吉为人贪诈无行，喜为杀戮 高祖尝以生日遣逢吉...&lt;/pre&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="276.5" y="435.25" width="320" height="78" as="geometry" />
+          <mxGeometry x="248.5" y="421.25" width="320" height="78" as="geometry" />
         </mxCell>
         <mxCell id="7vLbPiAOQzQKEIJkGnL1-45" value="&lt;pre style=&quot;border-color: var(--border-color); font-size: 11px; text-align: justify; line-height: 20%;&quot; class=&quot;ace-line ace-line old-record-id-MHsZdyYQPokxIzxDglwcdHE7nVt&quot;&gt;&lt;div style=&quot;line-height: 120%;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;MV7mdKlGkoLxBBxnZgEcSvsun9g&quot;&gt;&lt;div style=&quot;line-height: 120%;&quot; class=&quot;old-record-id-MHsZdyYQPokxIzxDglwcdHE7nVt&quot;&gt;这段文本讲述了东汉时期的一个故事主人公名叫苏逢吉,他是&lt;/div&gt;&lt;div style=&quot;line-height: 120%;&quot; class=&quot;old-record-id-MHsZdyYQPokxIzxDglwcdHE7nVt&quot;&gt;一位在长安出生的人汉高祖镇河东的时候，他的父亲被任命&lt;/div&gt;&lt;div style=&quot;line-height: 120%;&quot; class=&quot;old-record-id-MHsZdyYQPokxIzxDglwcdHE7nVt&quot;&gt;为大将军，因此苏逢吉经常替他的父亲写奏章后来，汉高祖&lt;/div&gt;&lt;div style=&quot;line-height: 120%;&quot; class=&quot;old-record-id-MHsZdyYQPokxIzxDglwcdHE7nVt&quot;&gt;决定将苏逢吉任命为御史，因为他对汉高祖非常忠诚和...&lt;/div&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;MV7mdKlGkoLxBBxnZgEcSvsun9g&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;汉高祖决定将苏逢吉任命为御史，因为他对汉高祖非常忠诚和恭敬然而，苏逢吉本人却是一个贪婪、狡猾的人，&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+1d&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7121335665014407196&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:true,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:4012,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:76,&amp;quot;end&amp;quot;:125},&amp;quot;recordId&amp;quot;:&amp;quot;MHsZdyYQPokxIzxDglwcdHE7nVt&amp;quot;}],&amp;quot;payloadMap&amp;quot;:{},&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;MV7mdKlGkoLxBBxnZgEcSvsun9g&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;，他的父亲被任命为大将军，因此苏逢吉经常替他的父亲写奏章后来，&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+v&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7121335665014407196&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:true,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:4012,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:45,&amp;quot;end&amp;quot;:76},&amp;quot;recordId&amp;quot;:&amp;quot;MHsZdyYQPokxIzxDglwcdHE7nVt&amp;quot;}],&amp;quot;payloadMap&amp;quot;:{},&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;MV7mdKlGkoLxBBxnZgEcSvsun9g&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;他是一位在长安出生的人汉高祖镇河东的时候&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+k&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7121335665014407196&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:true,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:4012,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:25,&amp;quot;end&amp;quot;:45},&amp;quot;recordId&amp;quot;:&amp;quot;MHsZdyYQPokxIzxDglwcdHE7nVt&amp;quot;}],&amp;quot;payloadMap&amp;quot;:{},&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="348" width="310" height="87" as="geometry" />
+          <mxGeometry x="252" y="334" width="310" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="7vLbPiAOQzQKEIJkGnL1-46" value="" style="endArrow=classicThin;html=1;rounded=1;strokeWidth=2;endFill=1;strokeColor=#d79b00;fillColor=#ffe6cc;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="564" y="454.89" as="sourcePoint" />
+            <mxPoint x="594" y="454.89" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7vLbPiAOQzQKEIJkGnL1-48" value="&lt;div style=&quot;line-height: 20%; font-size: 11px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;MV7mdKlGkoLxBBxnZgEcSvsun9g&quot;&gt;&lt;pre style=&quot;line-height: 20%;&quot; class=&quot;ace-line ace-line old-record-id-PI73dkuw1oCVOxx11oZcgAcFnFd&quot;&gt;&lt;code data-wrap=&quot;false&quot; class=&quot;language-Plain Text&quot;&gt;下列对原文有关内容的概括与赏析，&lt;/code&gt;&lt;/pre&gt;&lt;pre style=&quot;line-height: 20%;&quot; class=&quot;ace-line ace-line old-record-id-PI73dkuw1oCVOxx11oZcgAcFnFd&quot;&gt;&lt;code data-wrap=&quot;false&quot; class=&quot;language-Plain Text&quot;&gt;不正确的一项是?&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="421" y="641" width="194" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="7vLbPiAOQzQKEIJkGnL1-49" value="" style="endArrow=classicThin;html=1;rounded=1;strokeWidth=2;endFill=1;strokeColor=#d79b00;fillColor=#ffe6cc;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="829" y="363.89" as="sourcePoint" />
+            <mxPoint x="885" y="364" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7vLbPiAOQzQKEIJkGnL1-51" value="&lt;div style=&quot;font-size: 15.360001px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;I2OPd06UgoXwHoxmGDJclGKunMc&quot;&gt;&lt;div style=&quot;font-size: 15.360001px;&quot; class=&quot;old-record-id-Yy6udGUAGoeq4YxWGWgc8CmznAh&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NbdFd5SYGoUSO3xgHZzc4H9knXb&quot;&gt;&lt;div class=&quot;old-record-id-LsEKdqQSworhZmxPmoCcQG5mnKg&quot; style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NbdFd5SYGoUSO3xgHZzc4H9knXb&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-AMYidXnhoo489fxQ9qdcv3c9nPg&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DzrBdluSSoG7XMxlqE0cG76in8f&quot;&gt;&lt;div class=&quot;old-record-id-ZwCcdWxT8obwNoxGVnQc3IF4nQd&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DzrBdluSSoG7XMxlqE0cG76in8f&quot;&gt;&lt;pre class=&quot;ace-line ace-line old-record-id-KoQpdHg80ooXVRxz5DfcN48Enpf&quot;&gt;&lt;br&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=0;glass=0;container=0;labelBackgroundColor=none;fillStyle=hatch;opacity=80;align=left;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="19" y="706" width="1126" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="7vLbPiAOQzQKEIJkGnL1-52" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DzrBdluSSoG7XMxlqE0cG76in8f&quot;&gt;&lt;pre class=&quot;ace-line ace-line old-record-id-KoQpdHg80ooXVRxz5DfcN48Enpf&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;MV7mdKlGkoLxBBxnZgEcSvsun9g&quot;&gt;&lt;pre class=&quot;ace-line ace-line old-record-id-BT0AdYiUCoJmvyx8Yt9cstokntg&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;MV7mdKlGkoLxBBxnZgEcSvsun9g&quot;&gt;&lt;div style=&quot;font-size: 11px;&quot; class=&quot;old-record-id-YAy0d5kbKo9NwcxwWL2c3Hf2nib&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;MV7mdKlGkoLxBBxnZgEcSvsun9g&quot;&gt;&lt;div style=&quot;text-align: justify;&quot; class=&quot;old-record-id-YAy0d5kbKo9NwcxwWL2c3Hf2nib&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Helvetica&quot;&gt;苏逢吉，京兆长安人也 汉高祖镇河东，父悦为高祖从事，逢吉常代悦作奏记，悦乃言之高祖 高祖召见逢吉，精神爽秀，怜之，乃以为节度判官 高祖性素刚严，宾佐稀得请见，逢吉独入，终日侍立高祖书阁中 两使文簿盈&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot; class=&quot;old-record-id-YAy0d5kbKo9NwcxwWL2c3Hf2nib&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Helvetica&quot;&gt;积，莫敢通，逢吉辄取内之怀中，伺高祖色可犯时以进之 高祖多以为可，以故甚爱之 然逢吉为人贪诈无行，&lt;span style=&quot;background-color: initial; white-space-collapse: collapse;&quot;&gt;喜为杀戮 高祖尝以生日遣逢吉疏理狱囚以祈福，谓之“静狱 ”逢吉入狱中阅囚，无轻重曲直悉杀之，以报曰：&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot; class=&quot;old-record-id-YAy0d5kbKo9NwcxwWL2c3Hf2nib&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;background-color: initial; white-space-collapse: collapse;&quot;&gt;“狱静矣 ”    高祖建号，制度草创，朝廷大事皆出逢吉 逢吉以为己任然素不学问随事裁决出其意见是故汉世尤无法度&lt;/span&gt;&lt;span style=&quot;background-color: initial; white-space-collapse: collapse;&quot;&gt;而不施德政民莫有所称焉 高祖既定京师，逢吉与苏禹珪同在中书，除吏多违旧制 逢吉尤纳货赂，市权鬻&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot; class=&quot;old-record-id-YAy0d5kbKo9NwcxwWL2c3Hf2nib&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;background-color: initial; white-space-collapse: collapse;&quot;&gt;官，谤者喧哗 然&lt;/span&gt;&lt;span style=&quot;background-color: initial; white-space-collapse: collapse;&quot;&gt;高祖方倚信二人，故莫敢有告者 凤翔李永吉初朝京师，逢吉以永吉故秦王从严子，家世王侯，当有奇货，使人告永吉，许以一州，而求其先王玉带，永吉以无为解，逢吉乃使人市一玉带，直数千缗，&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot; class=&quot;old-record-id-YAy0d5kbKo9NwcxwWL2c3Hf2nib&quot;&gt;&lt;span style=&quot;background-color: initial; white-space-collapse: collapse;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Helvetica&quot;&gt;责永吉偿之 前客省使王筠自晋末使楚...&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;MV7mdKlGkoLxBBxnZgEcSvsun9g&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;无轻重曲直悉杀之，以报曰：“狱静矣 ”    高祖建号，制度草创，朝廷大事皆出逢吉 逢吉以为己任然素不学问随事裁决出其意见是故汉世尤无法度而不施德政民莫有所称焉 高祖既定京师，逢吉与苏禹珪同在中书，除吏多违旧制 逢吉尤纳货赂，市权鬻官，谤者喧哗 然高祖方倚信二人，故莫敢有告者 凤翔李永吉初朝京师，逢吉以永吉故秦王从严子，家世王侯，当有奇货，使人告永吉，许以一州，而求其先王玉带，永吉以无为解，逢吉乃使人市一玉带，直数千缗，责永吉偿之 前客省使王筠自晋末使楚，至是还&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+6h&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7121335665014407196&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:true,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:4010,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:185,&amp;quot;end&amp;quot;:418},&amp;quot;recordId&amp;quot;:&amp;quot;YAy0d5kbKo9NwcxwWL2c3Hf2nib&amp;quot;}],&amp;quot;payloadMap&amp;quot;:{},&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="697.5" width="1075" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="7vLbPiAOQzQKEIJkGnL1-53" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;B&amp;nbsp; 苏逢吉虽贪恋财货，&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;但毕竟学问高&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;深，处事&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;干练，以朝廷大事为&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;己&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;任，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;老百姓没有不称道的。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="961.5" y="481.5" width="162" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7vLbPiAOQzQKEIJkGnL1-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=3;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endSize=2;strokeColor=#d79b00;fillColor=#ffe6cc;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1002.29" y="440.98" as="sourcePoint" />
+            <mxPoint x="1003.6600000000001" y="465.05" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7vLbPiAOQzQKEIJkGnL1-56" value="" style="endArrow=classicThin;html=1;rounded=1;strokeWidth=1;endFill=1;strokeColor=#009999;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170.74" y="705" as="sourcePoint" />
+            <mxPoint x="170.74" y="687" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7vLbPiAOQzQKEIJkGnL1-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=3;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;endSize=2;strokeColor=#d79b00;fillColor=#ffe6cc;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465" y="589.0000000000001" as="sourcePoint" />
+            <mxPoint x="466.5" y="567.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7vLbPiAOQzQKEIJkGnL1-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=3;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;endSize=2;strokeColor=#d79b00;fillColor=#ffe6cc;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="164.5" y="590.0000000000001" as="sourcePoint" />
+            <mxPoint x="166" y="568.0000000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
