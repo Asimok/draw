@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-23T08:54:07.214Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="CtQoWD74FR6rcWDzcd30" version="22.1.11" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-12-23T09:58:19.717Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nbATjEyf13XheecLOt-Y" version="22.1.11" type="github" pages="12">
   <diagram id="L-MYgFU7t1Wd9B6l5E1I" name="第 1 页">
     <mxGraphModel dx="2074" dy="1022" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3734,7 +3734,7 @@
             <mxPoint x="400" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="488qeXC9fZfXHOICa2Ms-25" value="词级别描述生成器的解码器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="488qeXC9fZfXHOICa2Ms-25" value="词级别描述生成器解码器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="500" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="488qeXC9fZfXHOICa2Ms-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="488qeXC9fZfXHOICa2Ms-30">
