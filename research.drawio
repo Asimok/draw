@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T08:52:56.901Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="jTURzuY9g7k1NUz_kqrT" version="24.5.1" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2024-06-14T05:31:15.006Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="YGGbh_CA-Y8RXnWYwMes" version="24.5.4" type="github" pages="16">
   <diagram id="L-MYgFU7t1Wd9B6l5E1I" name="第 1 页">
     <mxGraphModel dx="2060" dy="1033" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6498,7 +6498,7 @@
         <mxCell id="VTVUt4FV8uPnpWSLYfNF-3" value="" style="shape=cross;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="250" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="VTVUt4FV8uPnpWSLYfNF-6" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;LLM&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="VTVUt4FV8uPnpWSLYfNF-6" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;LLM&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="350" y="320" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="VTVUt4FV8uPnpWSLYfNF-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;A&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -6536,6 +6536,9 @@
         </mxCell>
         <mxCell id="VTVUt4FV8uPnpWSLYfNF-16" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;x&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="492.5" y="530" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VvxNNa6QgosiThf-drsN-1" value="❄️" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=33;" vertex="1" parent="1">
+          <mxGeometry x="350" y="320" width="51" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
